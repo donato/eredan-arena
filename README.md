@@ -25,7 +25,7 @@ You can also add queries for things like
 ```js
     iHave('race', Constants.Races.beast);  // output all of your beast cards
     iHave('guild', Constants.Guilds.pirate); // filter by guild pirate cards
-    iHave('marauder', Constants.Classes.marauder); // filter by class marauder
+    iHave('class', Constants.Classes.marauder); // filter by class marauder
 ```
 
 or get more advanced and write things like
